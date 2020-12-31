@@ -1,0 +1,12 @@
+.header_main{
+  display: flex;
+}
+.header_main>div{
+  flex: 1;
+  text-align: center;
+  margin-top: 20px;
+}
+.active{
+  color: red;
+  border-bottom: 1px solid blue;
+}
